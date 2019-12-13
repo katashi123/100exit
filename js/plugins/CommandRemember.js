@@ -1,0 +1,6 @@
+    ///////////////////////////////////////////////////////////////////////////////
+    // Window_Options                                                            //
+    ///////////////////////////////////////////////////////////////////////////////
+    Window_Options.prototype.addGeneralOptions = function() {
+        //this.addCommand(TextManager.commandRemember, 'commandRemember');
+    };
