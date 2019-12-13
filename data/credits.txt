@@ -1,0 +1,139 @@
+﻿RPG Maker MV Plugins
+
+Awesome Plugins Makers
+
+"yanfly" 「 http://yanfly.moe 」
+━━━━━━━━━━━━━━━━━━━━━
+
+YEP_CoreEngine
+
+YEP_FpsSynchOption
+
+YEP_RegionEvents
+
+YEP_SmartJump
+
+YEP_SlipperyTiles
+
+YEP_ButtonCommonEvents
+
+YEP_EventChasePlayer
+
+━━━━━━━━━━━━━━━━━━━━━
+
+
+“SumRndmDde” 「 http://sumrndm.site 」
+━━━━━━━━━━━━━━━━━━━━━
+
+SRD_Game Upgrade
+
+SRD_Title Command Customizer
+
+SRD_Title Picture Choices
+
+SRD_Alternative Menu Screen: Bust Select
+
+SRD_Picture Choices
+
+SRD_Movie Credits
+
+SRD_Title Map Background
+
+SRD_CreditsPlugin
+
+━━━━━━━━━━━━━━━━━━━━━
+
+
+"Galv's" 「 https://galvs-scripts.com 」
+
+━━━━━━━━━━━━━━━━━━━━━
+Galv's Diagonal Movement
+━━━━━━━━━━━━━━━━━━━━━
+
+
+"Aloe Guvner" 「 https://github.com/aloeguvner/rpg-maker-mv 」
+
+━━━━━━━━━━━━━━━━━━━━━
+ALOE_MobileUI
+━━━━━━━━━━━━━━━━━━━━━
+
+
+"orlando" 「 https://forums.rpgmakerweb.com/index.php?members/orlando.36282/ 」
+
+━━━━━━━━━━━━━━━━━━━━━
+Advanced Menus
+━━━━━━━━━━━━━━━━━━━━━
+
+
+"tomoaky" 「 http://hikimoki.sakura.ne.jp 」
+
+━━━━━━━━━━━━━━━━━━━━━
+TMMapHpGauge
+━━━━━━━━━━━━━━━━━━━━━
+
+
+"atelierrgss" 「 https://atelierrgss.wordpress.com 」
+
+━━━━━━━━━━━━━━━━━━━━━
+MOG_MapNameHud
+━━━━━━━━━━━━━━━━━━━━━
+
+
+"Galenmereth / Tor Damian Design's" 「 http://mvplugins.tordamian.com 」
+
+━━━━━━━━━━━━━━━━━━━━━
+TDDP_ManageDashing
+━━━━━━━━━━━━━━━━━━━━━
+
+
+xilefian 「 https://github.com/AltimitSystemsr 」
+━━━━━━━━━━━━━━━━━━━━━
+Altimit Systems mv-android-client
+━━━━━━━━━━━━━━━━━━━━━
+
+
+Amazing Back Ground Music Makers
+「Source : https://dova-s.jp」
+
+
+♪ Magic of the witch 「written by " 清水裕介 "」
+
+♪ 濡れたヴィオラ 「written by " 清水裕介 "」
+
+♪ ASPHYXIATION 「written by " 稿屋 隆 "」
+
+♪ Tokyo night 「written by " GT-K （ジーティーケー）"」
+
+♪ 素直じゃないね恋心 「written by " しんさんわーくす "」
+
+♪ 進め！テントウムシ 「written by " MAKOOTO "」
+
+♪ ライク ア スパイス 「written by " かずち "」
+
+♪ バーニングレッド 「written by " かずち " 」
+
+♪ Fire Fire 「written by " かずち " 」
+
+♪ 星屑サラウンド-1chorus- 「written by " 龍崎一 (Losstime Life)"」
+
+♪ 君は海 僕は貝	「written by " 龍崎一 (Losstime Life)"」
+
+♪ ホットミルク 「written by " カワサキヤスヒロ "」
+
+
+Some graphic sources
+
+pixabay 「 https://pixabay.com 」
+
+RPGMAKER sources 「 http://www.rpgmakerweb.com 」
+
+icon set maker 「 https://game-icons.net 」
+Lorc, Delapouite, Viscious Speed, Johan86(editor)
+「 https://creativecommons.org/licenses/by/3.0 」
+
+and Made it myself
+
+
+Thank you and love you.
+
+
